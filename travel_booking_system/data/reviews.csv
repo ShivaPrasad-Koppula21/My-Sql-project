@@ -1,0 +1,151 @@
+review_id,user_id,target_type,target_id,rating,title,comment,created_at
+1,5,destination,56,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-28 10:13:25
+2,14,destination,4,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-19 10:13:25
+3,2,hotel,25,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-03 10:13:25
+4,7,destination,22,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-06-16 10:13:25
+5,6,hotel,133,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-15 10:13:25
+6,13,hotel,16,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-14 10:13:25
+7,17,destination,47,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-28 10:13:25
+8,6,hotel,12,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-23 10:13:25
+9,7,hotel,45,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-30 10:13:25
+10,9,hotel,31,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-10 10:13:25
+11,19,destination,37,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-27 10:13:25
+12,4,destination,12,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-15 10:13:25
+13,11,destination,50,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-06-30 10:13:25
+14,1,destination,41,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-11 10:13:25
+15,3,destination,20,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-07-05 10:13:25
+16,5,hotel,14,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-10 10:13:25
+17,10,destination,18,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-07-28 10:13:25
+18,11,hotel,58,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-04 10:13:25
+19,7,destination,19,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-11 10:13:25
+20,15,hotel,24,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-24 10:13:25
+21,19,hotel,90,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-12 10:13:25
+22,6,destination,54,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-20 10:13:25
+23,5,destination,45,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-25 10:13:25
+24,10,destination,22,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-07-30 10:13:25
+25,9,destination,33,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-05 10:13:25
+26,7,hotel,67,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-24 10:13:25
+27,17,destination,31,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-10 10:13:25
+28,19,hotel,96,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-21 10:13:25
+29,19,destination,21,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-20 10:13:25
+30,12,destination,11,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-09 10:13:25
+31,11,hotel,26,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-24 10:13:25
+32,10,destination,30,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-15 10:13:26
+33,1,hotel,117,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-07-27 10:13:26
+34,14,hotel,122,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-06 10:13:26
+35,12,hotel,124,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-31 10:13:26
+36,2,destination,49,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-25 10:13:26
+37,14,hotel,69,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-18 10:13:26
+38,19,destination,11,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-17 10:13:26
+39,10,destination,37,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-22 10:13:26
+40,11,destination,6,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-06-29 10:13:26
+41,5,hotel,118,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-17 10:13:26
+42,15,destination,43,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-13 10:13:26
+43,6,hotel,79,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-15 10:13:26
+44,8,destination,28,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-08 10:13:26
+45,8,destination,44,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-22 10:13:26
+46,12,destination,31,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-25 10:13:26
+47,4,hotel,141,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-11 10:13:26
+48,7,hotel,97,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-10 10:13:26
+49,8,destination,25,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-29 10:13:26
+50,5,hotel,84,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-06-26 10:13:26
+51,14,hotel,137,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-25 10:13:26
+52,16,destination,15,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-16 10:13:26
+53,8,hotel,93,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-05 10:13:26
+54,1,hotel,20,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-21 10:13:26
+55,16,destination,3,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-31 10:13:26
+56,14,destination,22,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-17 10:13:26
+57,6,hotel,39,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-30 10:13:26
+58,13,hotel,9,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-16 10:13:26
+59,6,destination,26,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-24 10:13:26
+60,4,hotel,22,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-13 10:13:26
+61,4,hotel,4,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-29 10:13:26
+62,5,hotel,117,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-07 10:13:26
+63,13,hotel,14,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-15 10:13:26
+64,9,destination,39,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-05 10:13:27
+65,12,hotel,86,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-23 10:13:27
+66,4,destination,28,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-07-03 10:13:27
+67,13,destination,10,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-26 10:13:27
+68,19,hotel,51,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-26 10:13:27
+69,20,hotel,112,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-10 10:13:27
+70,10,destination,8,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-11 10:13:27
+71,12,destination,57,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-07-13 10:13:27
+72,12,hotel,109,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-14 10:13:27
+73,10,destination,35,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-16 10:13:27
+74,10,hotel,107,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-12 10:13:27
+75,11,hotel,10,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-24 10:13:27
+76,12,destination,35,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-07 10:13:27
+77,6,destination,35,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-22 10:13:27
+78,5,hotel,111,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-25 10:13:27
+79,15,destination,59,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-07-28 10:13:27
+80,15,destination,5,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-22 10:13:27
+81,2,destination,39,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-21 10:13:27
+82,17,destination,22,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-15 10:13:27
+83,13,destination,12,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-08 10:13:27
+84,3,hotel,30,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-07-27 10:13:27
+85,9,hotel,132,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-21 10:13:27
+86,8,destination,24,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-09 10:13:27
+87,7,hotel,71,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-03 10:13:27
+88,17,destination,39,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-15 10:13:27
+89,10,hotel,2,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-12 10:13:27
+90,1,hotel,34,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-04 10:13:27
+91,15,hotel,25,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-10 10:13:27
+92,1,hotel,57,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-22 10:13:27
+93,10,hotel,108,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-27 10:13:28
+94,18,hotel,122,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-10-07 10:13:28
+95,11,hotel,82,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-06-25 10:13:28
+96,15,destination,30,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-12 10:13:28
+97,18,destination,44,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-06 10:13:28
+98,13,destination,43,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-28 10:13:28
+99,16,hotel,22,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-07-05 10:13:28
+100,17,hotel,78,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-04 10:13:28
+101,11,hotel,120,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-19 10:13:28
+102,20,destination,40,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-28 10:13:28
+103,14,hotel,6,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-29 10:13:28
+104,16,destination,25,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-09-22 10:13:28
+105,13,destination,7,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-11 10:13:28
+106,7,destination,37,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-16 10:13:28
+107,6,hotel,141,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-24 10:13:28
+108,7,hotel,72,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-02 10:13:28
+109,12,destination,43,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-05 10:13:28
+110,18,hotel,58,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-06 10:13:28
+111,15,hotel,116,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-06-19 10:13:28
+112,6,hotel,74,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-01 10:13:28
+113,11,hotel,45,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-20 10:13:28
+114,19,hotel,108,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-09-14 10:13:28
+115,1,destination,9,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-07-21 10:13:28
+116,19,hotel,6,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-22 10:13:28
+117,8,destination,37,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-13 10:13:28
+118,3,hotel,6,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-17 10:13:28
+119,13,destination,55,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-11 10:13:28
+120,12,destination,12,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-09 10:13:29
+121,7,hotel,34,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-30 10:13:29
+122,1,destination,37,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-08-11 10:13:29
+123,8,hotel,62,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-08-10 10:13:29
+124,17,destination,52,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-23 10:13:29
+125,11,destination,16,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-08 10:13:29
+126,3,destination,48,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-13 10:13:29
+127,14,hotel,99,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-06-30 10:13:29
+128,14,hotel,138,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-09 10:13:29
+129,20,destination,29,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-06-25 10:13:29
+130,2,hotel,102,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-08-23 10:13:29
+131,13,hotel,110,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-25 10:13:29
+132,5,hotel,149,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-08 10:13:29
+133,6,hotel,106,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-20 10:13:29
+134,8,hotel,54,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-26 10:13:29
+135,11,destination,30,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-04 10:13:29
+136,8,hotel,88,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-12 10:13:29
+137,9,hotel,10,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-20 10:13:29
+138,17,hotel,7,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-06-18 10:13:29
+139,12,hotel,75,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-09 10:13:29
+140,6,hotel,122,4,Pleasant stay and smooth logistics,"Clean amenities, friendly staff, and great proximity to major attractions.",2026-07-14 10:13:29
+141,10,destination,48,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-09-20 10:13:29
+142,20,hotel,99,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-07-19 10:13:29
+143,8,destination,55,5,"Unforgettable trip, highly recommended!",TravelNest made the entire booking smooth. Our accommodations exceeded expectations.,2026-07-26 10:13:29
+144,10,destination,38,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-09-05 10:13:30
+145,12,hotel,123,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-15 10:13:30
+146,6,hotel,40,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-06-21 10:13:30
+147,17,hotel,134,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-08-21 10:13:30
+148,16,destination,56,3,"Decent trip, could be slightly improved","The location was scenic, though peak season crowds caused some delays. Still enjoyed the experience.",2026-08-08 10:13:30
+149,6,hotel,98,5,Absolutely breathtaking experience!,Everything was seamless from start to finish. The views were unbelievable and hospitality was top-notch.,2026-07-15 10:13:30
+150,3,hotel,58,4,Wonderful vacation with great memories,Very good experience overall. Great guided tour and delightful local delicacies. Will visit again.,2026-09-12 10:13:30

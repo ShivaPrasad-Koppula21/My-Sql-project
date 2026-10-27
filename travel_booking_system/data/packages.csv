@@ -1,0 +1,401 @@
+package_id,destination_id,title,package_type,duration_days,duration_nights,itinerary_summary,inclusions,price,max_group_size,image_url,is_featured,created_at
+1,1,Royal Heritage Discovery: Goa Explorer,Domestic,6,5,"Day 1: Arrival in Goa, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",142500.00,18,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:09
+2,2,Hidden Gems Trail: Jaipur Explorer,Family,7,6,"Day 1: Arrival in Jaipur, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",136500.00,14,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+3,3,Cultural Splendor & Culinary Tour: Manali Explorer,Adventure,6,5,"Day 1: Arrival in Manali, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",202500.00,21,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+4,4,Grand Highlights Tour: Kerala Backwaters Explorer,Family,4,3,"Day 1: Arrival in Kerala Backwaters, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",18000.00,12,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+5,5,Cultural Splendor & Culinary Tour: Munnar Explorer,Domestic,10,9,"Day 1: Arrival in Munnar, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",337500.00,24,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+6,6,Epic Scenic Circuit: Leh Ladakh Explorer,Adventure,3,2,"Day 1: Arrival in Leh Ladakh, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",26250.00,20,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:09
+7,7,Grand Highlights Tour: Varanasi Explorer,Domestic,10,9,"Day 1: Arrival in Varanasi, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",60000.00,16,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+8,8,Royal Heritage Discovery: Agra Explorer,Family,5,4,"Day 1: Arrival in Agra, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",97500.00,24,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+9,9,Enchanting Escape: Udaipur Explorer,Domestic,10,9,"Day 1: Arrival in Udaipur, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",87500.00,18,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+10,10,Enchanting Escape: Ooty Explorer,Honeymoon,4,3,"Day 1: Arrival in Ooty, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",35000.00,22,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+11,11,Cultural Splendor & Culinary Tour: Rishikesh Explorer,Adventure,3,2,"Day 1: Arrival in Rishikesh, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",71250.00,19,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:09
+12,12,Tropical Wilderness Expedition: Andaman Islands Explorer,Adventure,7,6,"Day 1: Arrival in Andaman Islands, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",61250.00,24,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+13,13,Epic Scenic Circuit: Shillong Explorer,Domestic,7,6,"Day 1: Arrival in Shillong, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",61250.00,20,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+14,14,Enchanting Escape: Kolkata Explorer,Honeymoon,7,6,"Day 1: Arrival in Kolkata, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",166250.00,24,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+15,15,Hidden Gems Trail: Mumbai Explorer,Domestic,4,3,"Day 1: Arrival in Mumbai, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",35000.00,17,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+16,16,Epic Scenic Circuit: Bengaluru Explorer,Honeymoon,7,6,"Day 1: Arrival in Bengaluru, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",136500.00,14,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:09
+17,17,Royal Heritage Discovery: Darjeeling Explorer,Family,10,9,"Day 1: Arrival in Darjeeling, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",337500.00,23,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:09
+18,18,Enchanting Escape: Hampi Explorer,Family,6,5,"Day 1: Arrival in Hampi, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",27000.00,15,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+19,19,Hidden Gems Trail: Coorg Explorer,Adventure,5,4,"Day 1: Arrival in Coorg, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",30000.00,14,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+20,20,Royal Heritage Discovery: Pondicherry Explorer,Family,3,2,"Day 1: Arrival in Pondicherry, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",101250.00,13,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+21,21,Cultural Splendor & Culinary Tour: Amritsar Explorer,Domestic,6,5,"Day 1: Arrival in Amritsar, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",117000.00,15,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+22,22,Hidden Gems Trail: Srinagar Explorer,Adventure,10,9,"Day 1: Arrival in Srinagar, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",337500.00,24,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+23,23,Hidden Gems Trail: Jaisalmer Explorer,Honeymoon,3,2,"Day 1: Arrival in Jaisalmer, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",101250.00,15,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+24,24,Enchanting Escape: Kaziranga Explorer,Adventure,6,5,"Day 1: Arrival in Kaziranga, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",142500.00,12,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+25,25,Romantic Gateway: Mysore Explorer,Domestic,10,9,"Day 1: Arrival in Mysore, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",337500.00,17,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+26,26,Cultural Splendor & Culinary Tour: Shimla Explorer,Domestic,3,2,"Day 1: Arrival in Shimla, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",58500.00,12,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+27,27,Romantic Gateway: Gangtok Explorer,Honeymoon,5,4,"Day 1: Arrival in Gangtok, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",30000.00,16,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+28,28,Romantic Gateway: Ranthambore Explorer,Family,6,5,"Day 1: Arrival in Ranthambore, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",142500.00,16,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+29,29,Tropical Wilderness Expedition: Mahabalipuram Explorer,Honeymoon,5,4,"Day 1: Arrival in Mahabalipuram, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",22500.00,21,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+30,30,Royal Heritage Discovery: Gokarna Explorer,Honeymoon,7,6,"Day 1: Arrival in Gokarna, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",61250.00,16,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+31,31,Tropical Wilderness Expedition: Kanyakumari Explorer,Family,7,6,"Day 1: Arrival in Kanyakumari, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",42000.00,13,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+32,32,Romantic Gateway: Nainital Explorer,Family,7,6,"Day 1: Arrival in Nainital, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",91000.00,14,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+33,33,Enchanting Escape: Hyderabad Explorer,Adventure,10,9,"Day 1: Arrival in Hyderabad, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",45000.00,18,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+34,34,Enchanting Escape: Khajuraho Explorer,Domestic,6,5,"Day 1: Arrival in Khajuraho, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",78000.00,23,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+35,35,Cultural Splendor & Culinary Tour: Cherrapunji Explorer,Family,5,4,"Day 1: Arrival in Cherrapunji, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",43750.00,23,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+36,36,Royal Heritage Discovery: Paris Explorer,International,6,5,"Day 1: Arrival in Paris, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",117000.00,13,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+37,37,Cultural Splendor & Culinary Tour: Dubai Explorer,International,3,2,"Day 1: Arrival in Dubai, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",39000.00,22,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+38,38,Cultural Splendor & Culinary Tour: Tokyo Explorer,International,6,5,"Day 1: Arrival in Tokyo, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",36000.00,14,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+39,39,Romantic Gateway: Bali Explorer,International,5,4,"Day 1: Arrival in Bali, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",65000.00,23,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+40,40,Hidden Gems Trail: Rome Explorer,International,5,4,"Day 1: Arrival in Rome, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",65000.00,12,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+41,41,Royal Heritage Discovery: London Explorer,International,6,5,"Day 1: Arrival in London, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",27000.00,19,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+42,42,Cultural Splendor & Culinary Tour: New York Explorer,International,4,3,"Day 1: Arrival in New York, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",35000.00,21,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+43,43,Tropical Wilderness Expedition: Singapore Explorer,International,7,6,"Day 1: Arrival in Singapore, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",31500.00,25,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+44,44,Royal Heritage Discovery: Bangkok Explorer,International,5,4,"Day 1: Arrival in Bangkok, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",97500.00,24,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+45,45,Romantic Gateway: Maldives Explorer,International,7,6,"Day 1: Arrival in Maldives, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",91000.00,21,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+46,46,Epic Scenic Circuit: Zurich Explorer,International,4,3,"Day 1: Arrival in Zurich, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",78000.00,20,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+47,47,Tropical Wilderness Expedition: Sydney Explorer,International,6,5,"Day 1: Arrival in Sydney, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",78000.00,17,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+48,48,Grand Highlights Tour: Cape Town Explorer,International,10,9,"Day 1: Arrival in Cape Town, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",195000.00,24,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+49,49,Epic Scenic Circuit: Cairo Explorer,International,7,6,"Day 1: Arrival in Cairo, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",236250.00,20,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+50,50,Grand Highlights Tour: Barcelona Explorer,International,4,3,"Day 1: Arrival in Barcelona, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",95000.00,23,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+51,51,Cultural Splendor & Culinary Tour: Istanbul Explorer,International,3,2,"Day 1: Arrival in Istanbul, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",58500.00,17,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+52,52,Royal Heritage Discovery: Amsterdam Explorer,International,6,5,"Day 1: Arrival in Amsterdam, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",36000.00,18,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+53,53,Royal Heritage Discovery: Rio de Janeiro Explorer,International,7,6,"Day 1: Arrival in Rio de Janeiro, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",31500.00,17,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+54,54,Cultural Splendor & Culinary Tour: Santorini Explorer,International,10,9,"Day 1: Arrival in Santorini, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",237500.00,13,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+55,55,Grand Highlights Tour: Kyoto Explorer,International,4,3,"Day 1: Arrival in Kyoto, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",78000.00,24,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+56,56,Tropical Wilderness Expedition: Prague Explorer,International,10,9,"Day 1: Arrival in Prague, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",60000.00,20,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+57,57,Romantic Gateway: Reykjavik Explorer,International,6,5,"Day 1: Arrival in Reykjavik, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",117000.00,15,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+58,58,Grand Highlights Tour: Queenstown Explorer,International,10,9,"Day 1: Arrival in Queenstown, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",87500.00,21,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+59,59,Romantic Gateway: Phuket Explorer,International,6,5,"Day 1: Arrival in Phuket, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",142500.00,13,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+60,60,Enchanting Escape: Vienna Explorer,International,7,6,"Day 1: Arrival in Vienna, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",136500.00,25,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+61,1,Tropical Wilderness Expedition: Goa Explorer,Family,3,2,"Day 1: Arrival in Goa, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",26250.00,12,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+62,2,Hidden Gems Trail: Jaipur Explorer,Domestic,5,4,"Day 1: Arrival in Jaipur, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",168750.00,15,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+63,3,Epic Scenic Circuit: Manali Explorer,Adventure,10,9,"Day 1: Arrival in Manali, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",87500.00,18,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+64,4,Epic Scenic Circuit: Kerala Backwaters Explorer,Adventure,7,6,"Day 1: Arrival in Kerala Backwaters, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",42000.00,19,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+65,5,Tropical Wilderness Expedition: Munnar Explorer,Honeymoon,7,6,"Day 1: Arrival in Munnar, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",91000.00,25,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+66,6,Epic Scenic Circuit: Leh Ladakh Explorer,Honeymoon,5,4,"Day 1: Arrival in Leh Ladakh, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",168750.00,14,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+67,7,Enchanting Escape: Varanasi Explorer,Domestic,10,9,"Day 1: Arrival in Varanasi, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",45000.00,23,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+68,8,Cultural Splendor & Culinary Tour: Agra Explorer,Adventure,4,3,"Day 1: Arrival in Agra, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",18000.00,22,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+69,9,Epic Scenic Circuit: Udaipur Explorer,Adventure,10,9,"Day 1: Arrival in Udaipur, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",195000.00,21,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+70,10,Tropical Wilderness Expedition: Ooty Explorer,Adventure,7,6,"Day 1: Arrival in Ooty, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",91000.00,18,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+71,11,Hidden Gems Trail: Rishikesh Explorer,Honeymoon,4,3,"Day 1: Arrival in Rishikesh, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",52000.00,21,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:10
+72,12,Cultural Splendor & Culinary Tour: Andaman Islands Explorer,Honeymoon,10,9,"Day 1: Arrival in Andaman Islands, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",195000.00,18,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+73,13,Hidden Gems Trail: Shillong Explorer,Domestic,3,2,"Day 1: Arrival in Shillong, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",58500.00,23,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+74,14,Hidden Gems Trail: Kolkata Explorer,Domestic,7,6,"Day 1: Arrival in Kolkata, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",91000.00,14,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+75,15,Romantic Gateway: Mumbai Explorer,Adventure,7,6,"Day 1: Arrival in Mumbai, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",31500.00,15,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:10
+76,16,Cultural Splendor & Culinary Tour: Bengaluru Explorer,Domestic,10,9,"Day 1: Arrival in Bengaluru, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",237500.00,21,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:11
+77,17,Enchanting Escape: Darjeeling Explorer,Family,7,6,"Day 1: Arrival in Darjeeling, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",236250.00,19,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+78,18,Cultural Splendor & Culinary Tour: Hampi Explorer,Adventure,7,6,"Day 1: Arrival in Hampi, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",166250.00,18,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+79,19,Hidden Gems Trail: Coorg Explorer,Family,5,4,"Day 1: Arrival in Coorg, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",30000.00,23,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+80,20,Romantic Gateway: Pondicherry Explorer,Family,3,2,"Day 1: Arrival in Pondicherry, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",71250.00,21,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+81,21,Tropical Wilderness Expedition: Amritsar Explorer,Domestic,10,9,"Day 1: Arrival in Amritsar, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",87500.00,16,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:11
+82,22,Cultural Splendor & Culinary Tour: Srinagar Explorer,Domestic,4,3,"Day 1: Arrival in Srinagar, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",78000.00,25,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+83,23,Romantic Gateway: Jaisalmer Explorer,Family,4,3,"Day 1: Arrival in Jaisalmer, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",78000.00,16,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+84,24,Romantic Gateway: Kaziranga Explorer,Domestic,10,9,"Day 1: Arrival in Kaziranga, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",45000.00,21,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+85,25,Tropical Wilderness Expedition: Mysore Explorer,Adventure,5,4,"Day 1: Arrival in Mysore, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",168750.00,16,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+86,26,Grand Highlights Tour: Shimla Explorer,Adventure,4,3,"Day 1: Arrival in Shimla, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 4: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",135000.00,17,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:11
+87,27,Royal Heritage Discovery: Gangtok Explorer,Honeymoon,7,6,"Day 1: Arrival in Gangtok, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",236250.00,25,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+88,28,Cultural Splendor & Culinary Tour: Ranthambore Explorer,Adventure,6,5,"Day 1: Arrival in Ranthambore, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",36000.00,23,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+89,29,Tropical Wilderness Expedition: Mahabalipuram Explorer,Honeymoon,7,6,"Day 1: Arrival in Mahabalipuram, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",166250.00,12,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+90,30,Romantic Gateway: Gokarna Explorer,Domestic,3,2,"Day 1: Arrival in Gokarna, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",18000.00,18,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+91,31,Cultural Splendor & Culinary Tour: Kanyakumari Explorer,Family,6,5,"Day 1: Arrival in Kanyakumari, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",142500.00,18,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:11
+92,32,Epic Scenic Circuit: Nainital Explorer,Adventure,5,4,"Day 1: Arrival in Nainital, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",30000.00,12,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+93,33,Romantic Gateway: Hyderabad Explorer,Adventure,6,5,"Day 1: Arrival in Hyderabad, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 6: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",142500.00,20,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+94,34,Enchanting Escape: Khajuraho Explorer,Domestic,7,6,"Day 1: Arrival in Khajuraho, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 7: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",166250.00,25,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+95,35,Epic Scenic Circuit: Cherrapunji Explorer,Family,5,4,"Day 1: Arrival in Cherrapunji, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",43750.00,24,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+96,36,Royal Heritage Discovery: Paris Explorer,International,5,4,"Day 1: Arrival in Paris, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 5: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",118750.00,19,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80,1,2026-07-15 10:13:11
+97,37,Grand Highlights Tour: Dubai Explorer,International,10,9,"Day 1: Arrival in Dubai, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",237500.00,20,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+98,38,Hidden Gems Trail: Tokyo Explorer,International,10,9,"Day 1: Arrival in Tokyo, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",237500.00,17,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+99,39,Enchanting Escape: Bali Explorer,International,10,9,"Day 1: Arrival in Bali, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 10: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",45000.00,12,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
+100,40,Epic Scenic Circuit: Rome Explorer,International,3,2,"Day 1: Arrival in Rome, private transfer to 4-star hotel, welcome dinner.
+Day 2: Guided morning landmarks tour, cultural museum visit, sunset viewpoint.
+Day 3: Outdoor excursion, local gastronomy experience, leisure shopping.
+Day 3: Morning breakfast, souvenir bazaar exploration, airport transfer.","Handpicked 4-Star Accommodations, Daily Gourmet Breakfast, Dedicated Guide, AC Private Vehicle, Monument Entrances, 24/7 Concierge.",58500.00,22,https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80,0,2026-07-15 10:13:11
